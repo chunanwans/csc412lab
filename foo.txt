@@ -1,2 +1,1 @@
-Second commit
 Initial Foo Commit
